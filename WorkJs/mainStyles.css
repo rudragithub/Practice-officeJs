@@ -1,0 +1,27 @@
+div#mainContainer{
+        height:470px;
+        width: 400px;
+        margin-top: 100px;
+        margin-left: 300px;
+        border:1px solid red;
+        display: none;
+}
+ul.ulContainer{
+
+        display:inline-block;
+        margin-left:40px;
+        margin-right: 50px;
+        border:2px solid green;
+
+}
+li.liContainer{
+    display:inline-block;
+
+    width: 50px;
+    margin-right:10px;
+    margin-top:10px;
+    margin-bottom:10px;
+    height:200px;
+
+  border:1px solid grey;
+}
